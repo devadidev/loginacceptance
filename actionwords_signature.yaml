@@ -1,0 +1,30 @@
+---
+- name: the url "p1" is loaded
+  uid: e199790c-d98c-465c-94d3-7792a0d3be72
+  parameters:
+  - name: p1
+  body_hash: d41d8cd98f00b204e9800998ecf8427e
+- name: the user enters the username "p1"
+  uid: 07205cb0-abaa-4e31-8ba2-f064c4d76e11
+  parameters:
+  - name: p1
+  body_hash: d41d8cd98f00b204e9800998ecf8427e
+- name: enters the passrowd "password"
+  uid: 044561ba-84cd-422d-b143-2a88e57698e2
+  parameters:
+  - name: password
+  body_hash: d41d8cd98f00b204e9800998ecf8427e
+- name: submits using the login button
+  uid: 56419661-8c34-405b-9e11-ce6a6c87a098
+  parameters: []
+  body_hash: d41d8cd98f00b204e9800998ecf8427e
+- name: it results in "p1"
+  uid: 2fa5d4d2-52df-4486-8ae4-746688311cb5
+  parameters:
+  - name: p1
+  body_hash: d41d8cd98f00b204e9800998ecf8427e
+- name: the following message is displayed "p1"
+  uid: 195a2dee-0eb5-4d59-a2c2-22d7a493fbb5
+  parameters:
+  - name: p1
+  body_hash: d41d8cd98f00b204e9800998ecf8427e
